@@ -1,0 +1,30 @@
+body, html{
+    height: 100%;
+ 	background-repeat: no-repeat;
+ 	background-color: #d3d3d3;
+}
+
+.main-login{
+ 	background-color: #fff;
+    /* shadows and rounded borders */
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.main-center{
+ 	margin: 0 auto;
+ 	max-width: 550px;
+    padding: 40px 40px;
+	text-align: center;
+}
+
+.login-register{
+	font-size: 11px;
+	text-align: center;
+}
+
+
+.input-group{
+	margin: 0 auto;
+}
